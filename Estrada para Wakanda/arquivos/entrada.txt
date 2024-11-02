@@ -1,0 +1,7 @@
+1000
+5
+10 Cidade1
+200 Cidade2
+400 Cidade3
+700 Cidade4
+900 Cidade5
